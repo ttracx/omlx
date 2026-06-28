@@ -370,3 +370,29 @@ Contributions are welcome! See [Contributing Guide](docs/CONTRIBUTING.md) for de
 - [venvstacks](https://venvstacks.lmstudio.ai) - Portable Python environment layering for the macOS app bundle
 - [mlx-embeddings](https://github.com/Blaizzy/mlx-embeddings) - Embedding model support for Apple Silicon
 - [dflash-mlx](https://github.com/bstnxbt/dflash-mlx) - Block diffusion speculative decoding on Apple Silicon
+
+<!-- THOX-DOCS-STANDARD:START -->
+## Repository Description
+
+LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
+
+## Documentation
+
+- [Repository documentation](docs/README.md)
+- [Security policy](SECURITY.md)
+- [Contributing guide](CONTRIBUTING.md)
+- [Legal notice](NOTICE.md)
+
+## THOX.ai LLC
+
+This repository is maintained by THOX.ai LLC.
+
+- Tommy Xaypanya is CTO.
+- Craig Ross is CEO.
+
+## Copyright and Legal
+
+Copyright (c) 2026 THOX.ai LLC. All rights reserved unless this repository includes a separate license file that states otherwise.
+
+THOX-specific documentation, configuration, branding, product definitions, and integration work are owned by THOX.ai LLC unless explicitly noted. Third-party dependencies, forks, vendored components, and upstream source materials remain governed by their original licenses and notices.
+<!-- THOX-DOCS-STANDARD:END -->
